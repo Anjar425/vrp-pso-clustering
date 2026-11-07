@@ -1,0 +1,4 @@
+method,total_cost_mean,total_cost_std,gap_to_benchmark_%,total_km,vehicles_used,customers_served_%,constraint_violations,days_cheaper_than_benchmark,runtime_s_10_days,convergence_iteration
+Method 1: PSO,1642.382504,21.620416350824055,3.5166607882224588,8252.3238,53.6,100.0,0,4.0,60.317213540000374,285.92
+Method 2: Clustering + PSO,1800.761348,18.891358194712176,13.49901814434955,9163.088800000001,60.8,99.88839285714286,0,2.0,18.16316269999952,224.84
+Benchmark (reference),1586.5876,,0.0,7986.706,53.0,100.0,3,,,

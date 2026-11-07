@@ -6,8 +6,9 @@ xlrd==2.0.1            # reads legacy .xls files in data/raw
 # Speed-up of the decoder (just-in-time compilation)
 numba==0.60.0
 
-# Clustering
+# Clustering and statistics
 scikit-learn==1.5.2
+scipy==1.17.1
 
 # Visualization
 matplotlib==3.9.2
