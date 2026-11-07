@@ -1,0 +1,17 @@
+# Core
+numpy==1.26.4
+pandas==2.2.3
+xlrd==2.0.1            # reads legacy .xls files in data/raw
+
+# Speed-up of the decoder (just-in-time compilation)
+numba==0.60.0
+
+# Clustering
+scikit-learn==1.5.2
+
+# Visualization
+matplotlib==3.9.2
+
+# Notebook
+notebook==7.2.2
+ipykernel==6.29.5
